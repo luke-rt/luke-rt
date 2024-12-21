@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-rt)](https://github.com/anuraghazra/github-readme-stats)
+Hey! I'm Luke, a Computer Science student at UPenn. I'm a teaching assistant for CIS 1600, an intro discrete mathematics course. Interested in systems, compilers, and programming languages.
